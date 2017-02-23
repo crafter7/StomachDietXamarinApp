@@ -21,7 +21,7 @@ namespace StomachDiet
                     Children = {
                         new Label {
                             HorizontalTextAlignment = TextAlignment.Center,
-                            Text = "Welcome to Xamarin Forms!"
+                            Text = "Stomach Diet App"
                         }
                     }
                 }
